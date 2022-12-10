@@ -1,0 +1,29 @@
+.display-4 {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-top: 5px solid #ffffff;
+  border-bottom: 5px solid #ffffff;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #eed1bf;
+  }
+  #projects {
+    background-color: #b4ceb1;
+  }
+  section {
+    padding-top: 5rem;
+  }
+  .offcanvas {
+    width: 12rem;
+  }
+  .footer {
+    background-color: #eed1bf;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  .footer-logo {
+    float: left;
+    font-size: 26px;
+    color:rgb(69, 51, 39)
+  }
